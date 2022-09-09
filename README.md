@@ -81,7 +81,9 @@ Any business analytics problem can be solved using **CR**oss **I**ndustry **S**t
 
 * ![seaborn](https://img.shields.io/static/v1?label=seaborn&message=0.11.2&color=blue&labelColor=grey)
 
-* ![re](https://img.shields.io/static/v1?label=re&message=2.2.1&color=blue&labelColor=grey)
+* ![statsmodels](https://img.shields.io/static/v1?label=statsmodels&message=0.13.2&color=blue&labelColor=grey)
+
+* ![sklearn](https://img.shields.io/static/v1?label=sklearn&message=1.0.2&color=blue&labelColor=grey)
 
 
 ### Acknowledgements
